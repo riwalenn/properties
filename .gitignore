@@ -1,0 +1,5 @@
+###### Intellij IDE ######
+.idea/
+.idea/*
+.idea_modules/
+.idea_modules/*
